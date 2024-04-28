@@ -1,0 +1,11 @@
+#pip install torch==2.2.2 torchvision==0.17.2 torchaudio==2.2.2 --index-url https://download.pytorch.org/whl/cu121
+#가상환경 $python -m venv crnn
+pandas==2.2.2
+pillow==10.3.0
+torch==2.2.2+cu121
+torchaudio==2.2.2+cu121
+torchvision==0.17.2+cu121
+opencv-python==4.9.0.80
+matplotlib==3.8.4
+tqdm==4.66.2
+seaborn==0.13.2
