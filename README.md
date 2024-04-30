@@ -74,7 +74,7 @@ test.csv : id(샘플 고유 id), img_path(샘플 이미지 파일 경로)
 
 ---
 
-### ✅ 밀크T 손 글씨 인식 기술 제안
+### ✅ 손글씨 인식 기술 제안
 
 ![image](https://github.com/glassesholder/daycon_crnn_project/assets/150658909/9e434bba-0131-4341-b3a7-c56bb5946485)
 
